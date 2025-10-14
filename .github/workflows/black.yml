@@ -1,0 +1,22 @@
+name: Workflow for Black
+
+on:
+  push:
+    paths:
+      - "integration/**"
+      - "tutorials/**"
+  pull_request:
+    paths:
+      - "integration/**"
+      - "tutorials/**"
+
+jobs:
+  Black-Check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: psf/black@stable
+        with:
+          options: "--check --diff --verbose"
+          src: "./tutorials"
+          jupyter: true
