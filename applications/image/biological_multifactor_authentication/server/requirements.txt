@@ -13,7 +13,7 @@ easydict==1.10
 filelock==3.12.3
 Flask==2.3.3
 flatbuffers==23.5.26
-fonttools==4.42.1
+fonttools==4.61.0
 grpcio==1.47.5
 grpcio-tools==1.47.5
 humanfriendly==10.0
