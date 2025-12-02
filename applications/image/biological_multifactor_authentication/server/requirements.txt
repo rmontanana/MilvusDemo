@@ -69,6 +69,6 @@ tzdata==2023.3
 ujson==5.4.0
 urllib3==2.0.4
 wcwidth==0.2.6
-Werkzeug==2.3.7
+Werkzeug==3.1.4
 zipp==3.16.2
 soundfile==0.12.1
