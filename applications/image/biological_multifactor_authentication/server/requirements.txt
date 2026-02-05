@@ -45,7 +45,7 @@ pandas==2.0.3
 Pillow==10.0.0
 prettytable==3.8.0
 proglog==0.1.10
-protobuf==3.20.3
+protobuf==5.29.6
 pymilvus==2.2.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
