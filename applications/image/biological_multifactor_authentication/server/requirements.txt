@@ -61,7 +61,7 @@ six==1.16.0
 sympy==1.12
 threadpoolctl==3.2.0
 tifffile==2023.7.10
-torch==2.0.1
+torch==2.13.0
 torchaudio==2.0.2
 torchvision==0.15.2
 typing_extensions==4.7.1
