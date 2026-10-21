@@ -42,7 +42,7 @@ opencv-python==4.8.0.76
 opencv-python-headless==4.8.0.76
 packaging==23.1
 pandas==2.0.3
-Pillow==10.0.0
+Pillow==13.0.0
 prettytable==3.8.0
 proglog==0.1.10
 protobuf==3.20.3
